@@ -1,3 +1,6 @@
+//Designed and Developed
+//    by Soravath March 2019
+
 var setAlarmbtn = document.getElementById('setAlarm');
 var vid = document.getElementById('myVideo');
 var pausevid = document.getElementById('pauseVideo');
